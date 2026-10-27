@@ -209,7 +209,7 @@ python web_app.py --port 5000 --host 127.0.0.1 --threshold 0.55 --no-ensemble
 ## 📁 项目结构
 
 ```
-课设/
+车识别/
 ├── train.py                  # 训练脚本 + 公共模块（数据管线/模型/评估/checkpoint）
 ├── predict.py                # 推理脚本（单图/批量，3 模型集成 + 多尺度 TTA）
 ├── web_app.py                # Flask Web 系统 + DeepSeek 智能体（单文件，含前端 HTML）
@@ -229,11 +229,6 @@ python web_app.py --port 5000 --host 127.0.0.1 --threshold 0.55 --no-ensemble
 │   ├── report_figs/          # 报告配图（架构图/训练流程/模型/智能体）
 │   └── experiments.csv       # 所有实验的超参与最优 F1 记录
 ├── predictions.csv           # 批量预测输出示例
-├── docs/                     # 课程材料（报告/任务书/演示视频）
-│   ├── 基于深度学习的车型智能识别与检索系统.docx
-│   ├── 基于深度学习的车型智能识别与检索系统.mp4
-│   ├── 视觉智能体综合实训报告_v2.docx
-│   └── 视觉智能体综合实训：学生任务书.pdf
 ├── .gitignore                # 已配置
 └── README.md                 # 本文件
 ```
