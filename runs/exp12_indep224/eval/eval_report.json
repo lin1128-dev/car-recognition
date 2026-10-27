@@ -1,0 +1,12 @@
+{
+  "checkpoint": "runs\\exp12_indep224\\best.pth",
+  "model": "efficientnet_b0",
+  "epoch": 12,
+  "val_macro_f1_51": 0.7551,
+  "val_accuracy": 0.7941,
+  "val_loss": 0.8432,
+  "unknown_detection_rate": 0.9183,
+  "known_rejection_rate": 0.0278,
+  "n_val": 2433,
+  "confidence_definition": "softmax 最大类别概率"
+}

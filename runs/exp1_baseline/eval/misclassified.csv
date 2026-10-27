@@ -1,0 +1,330 @@
+image_path,true_id,true_name,pred_id,pred_name,confidence
+dataset_51\val\0008\0008_0018.jpg,0008,奥迪_奥迪A7L,0329,奥迪_奥迪A7,0.5248
+dataset_51\val\0008\0008_0255.jpg,0008,奥迪_奥迪A7L,0329,奥迪_奥迪A7,0.3836
+dataset_51\val\0008\0008_0258.jpg,0008,奥迪_奥迪A7L,0329,奥迪_奥迪A7,0.7117
+dataset_51\val\0008\0008_0261.jpg,0008,奥迪_奥迪A7L,0329,奥迪_奥迪A7,0.6038
+dataset_51\val\0008\0008_0396.jpg,0008,奥迪_奥迪A7L,0329,奥迪_奥迪A7,0.8835
+dataset_51\val\0008\0008_0450.jpg,0008,奥迪_奥迪A7L,0329,奥迪_奥迪A7,0.9434
+dataset_51\val\0008\0008_0467.jpg,0008,奥迪_奥迪A7L,unknown,unknown,0.5150
+dataset_51\val\0020\0020_0011.jpg,0020,宝马_宝马M4,0222,宝马_宝马X7,0.1245
+dataset_51\val\0020\0020_0037.jpg,0020,宝马_宝马M4,0441,宝马_宝马M3,0.3582
+dataset_51\val\0020\0020_0041.jpg,0020,宝马_宝马M4,0441,宝马_宝马M3,0.4048
+dataset_51\val\0020\0020_0051.jpg,0020,宝马_宝马M4,0441,宝马_宝马M3,0.1622
+dataset_51\val\0020\0020_0227.jpg,0020,宝马_宝马M4,unknown,unknown,0.4780
+dataset_51\val\0020\0020_0234.jpg,0020,宝马_宝马M4,0870,宝马_宝马4系,0.1451
+dataset_51\val\0020\0020_0294.jpg,0020,宝马_宝马M4,0441,宝马_宝马M3,0.5548
+dataset_51\val\0020\0020_0465.jpg,0020,宝马_宝马M4,unknown,unknown,0.5312
+dataset_51\val\0020\0020_0466.jpg,0020,宝马_宝马M4,0441,宝马_宝马M3,0.8473
+dataset_51\val\0059\0059_0027.jpg,0059,奔驰_奔驰GLC AMG,0936,奔驰_奔驰GLC,0.3156
+dataset_51\val\0059\0059_0032.jpg,0059,奔驰_奔驰GLC AMG,0649,奔驰_奔驰GLC轿跑,0.6843
+dataset_51\val\0059\0059_0052.jpg,0059,奔驰_奔驰GLC AMG,0649,奔驰_奔驰GLC轿跑,0.5720
+dataset_51\val\0059\0059_0173.jpg,0059,奔驰_奔驰GLC AMG,0936,奔驰_奔驰GLC,0.5548
+dataset_51\val\0059\0059_0232.jpg,0059,奔驰_奔驰GLC AMG,0649,奔驰_奔驰GLC轿跑,0.1799
+dataset_51\val\0059\0059_0289.jpg,0059,奔驰_奔驰GLC AMG,0936,奔驰_奔驰GLC,0.9124
+dataset_51\val\0059\0059_0350.jpg,0059,奔驰_奔驰GLC AMG,0936,奔驰_奔驰GLC,0.6878
+dataset_51\val\0059\0059_0409.jpg,0059,奔驰_奔驰GLC AMG,0936,奔驰_奔驰GLC,0.2882
+dataset_51\val\0059\0059_0461.jpg,0059,奔驰_奔驰GLC AMG,0936,奔驰_奔驰GLC,0.2414
+dataset_51\val\0059\0059_0464.jpg,0059,奔驰_奔驰GLC AMG,0936,奔驰_奔驰GLC,0.1160
+dataset_51\val\0063\0063_0010.jpg,0063,宝马_宝马3系,0281,宝马_宝马1系,0.1827
+dataset_51\val\0063\0063_0204.jpg,0063,宝马_宝马3系,0110,奥迪_奥迪A3,0.2440
+dataset_51\val\0063\0063_0230.jpg,0063,宝马_宝马3系,0441,宝马_宝马M3,0.2716
+dataset_51\val\0063\0063_0249.jpg,0063,宝马_宝马3系,0281,宝马_宝马1系,0.1812
+dataset_51\val\0063\0063_0250.jpg,0063,宝马_宝马3系,0870,宝马_宝马4系,0.2467
+dataset_51\val\0063\0063_0409.jpg,0063,宝马_宝马3系,0281,宝马_宝马1系,0.3309
+dataset_51\val\0063\0063_0469.jpg,0063,宝马_宝马3系,0281,宝马_宝马1系,0.1833
+dataset_51\val\0063\0063_0496.jpg,0063,宝马_宝马3系,0870,宝马_宝马4系,0.3450
+dataset_51\val\0063\0063_0499.jpg,0063,宝马_宝马3系,0441,宝马_宝马M3,0.2613
+dataset_51\val\0110\0110_0182.jpg,0110,奥迪_奥迪A3,0643,奥迪_奥迪S5,0.1731
+dataset_51\val\0110\0110_0494.jpg,0110,奥迪_奥迪A3,0666,奥迪_奥迪S6,0.1429
+dataset_51\val\0120\0120_0011.jpg,0120,宝马_宝马X5,unknown,unknown,0.1068
+dataset_51\val\0120\0120_0135.jpg,0120,宝马_宝马X5,0683,宝马_宝马X3,0.2406
+dataset_51\val\0120\0120_0208.jpg,0120,宝马_宝马X5,0304,宝马_宝马X4,0.2463
+dataset_51\val\0120\0120_0246.jpg,0120,宝马_宝马X5,0683,宝马_宝马X3,0.4934
+dataset_51\val\0120\0120_0298.jpg,0120,宝马_宝马X5,0683,宝马_宝马X3,0.3641
+dataset_51\val\0120\0120_0418.jpg,0120,宝马_宝马X5,0582,宝马_宝马5系,0.4400
+dataset_51\val\0139\0139_0140.jpg,0139,奔驰_奔驰A级,0445,奔驰_奔驰CLA,0.1462
+dataset_51\val\0139\0139_0175.jpg,0139,奔驰_奔驰A级,0362,奔驰_奔驰A级AMG,0.3530
+dataset_51\val\0139\0139_0262.jpg,0139,奔驰_奔驰A级,0362,奔驰_奔驰A级AMG,0.1198
+dataset_51\val\0139\0139_0281.jpg,0139,奔驰_奔驰A级,0445,奔驰_奔驰CLA,0.7461
+dataset_51\val\0139\0139_0283.jpg,0139,奔驰_奔驰A级,0445,奔驰_奔驰CLA,0.1155
+dataset_51\val\0139\0139_0305.jpg,0139,奔驰_奔驰A级,0362,奔驰_奔驰A级AMG,0.7973
+dataset_51\val\0139\0139_0346.jpg,0139,奔驰_奔驰A级,0362,奔驰_奔驰A级AMG,0.6728
+dataset_51\val\0139\0139_0373.jpg,0139,奔驰_奔驰A级,0587,奔驰_奔驰GLA,0.2593
+dataset_51\val\0139\0139_0385.jpg,0139,奔驰_奔驰A级,0362,奔驰_奔驰A级AMG,0.1387
+dataset_51\val\0139\0139_0394.jpg,0139,奔驰_奔驰A级,0362,奔驰_奔驰A级AMG,0.2295
+dataset_51\val\0139\0139_0402.jpg,0139,奔驰_奔驰A级,0688,奔驰_奔驰C级,0.2099
+dataset_51\val\0139\0139_0474.jpg,0139,奔驰_奔驰A级,0688,奔驰_奔驰C级,0.2456
+dataset_51\val\0139\0139_0476.jpg,0139,奔驰_奔驰A级,0362,奔驰_奔驰A级AMG,0.1058
+dataset_51\val\0159\0159_0008.jpg,0159,奔驰_奔驰S级,0164,奔驰_迈巴赫S级,0.8075
+dataset_51\val\0159\0159_0020.jpg,0159,奔驰_奔驰S级,0164,奔驰_迈巴赫S级,0.2508
+dataset_51\val\0159\0159_0086.jpg,0159,奔驰_奔驰S级,0164,奔驰_迈巴赫S级,0.8692
+dataset_51\val\0159\0159_0261.jpg,0159,奔驰_奔驰S级,0164,奔驰_迈巴赫S级,0.2580
+dataset_51\val\0159\0159_0264.jpg,0159,奔驰_奔驰S级,0632,奥迪_奥迪A6 China Domestic Version,0.1701
+dataset_51\val\0159\0159_0272.jpg,0159,奔驰_奔驰S级,0759,奔驰_奔驰CLS,0.1752
+dataset_51\val\0159\0159_0449.jpg,0159,奔驰_奔驰S级,0164,奔驰_迈巴赫S级,0.4528
+dataset_51\val\0159\0159_0465.jpg,0159,奔驰_奔驰S级,0164,奔驰_迈巴赫S级,0.3825
+dataset_51\val\0159\0159_0482.jpg,0159,奔驰_奔驰S级,unknown,unknown,0.1431
+dataset_51\val\0164\0164_0033.jpg,0164,奔驰_迈巴赫S级,0632,奥迪_奥迪A6 China Domestic Version,0.4071
+dataset_51\val\0164\0164_0297.jpg,0164,奔驰_迈巴赫S级,0837,奔驰_奔驰C级AMG,0.4576
+dataset_51\val\0164\0164_0305.jpg,0164,奔驰_迈巴赫S级,0304,宝马_宝马X4,0.1256
+dataset_51\val\0164\0164_0325.jpg,0164,奔驰_迈巴赫S级,0159,奔驰_奔驰S级,0.2172
+dataset_51\val\0164\0164_0437.jpg,0164,奔驰_迈巴赫S级,0159,奔驰_奔驰S级,0.7683
+dataset_51\val\0164\0164_0466.jpg,0164,奔驰_迈巴赫S级,0159,奔驰_奔驰S级,0.1762
+dataset_51\val\0164\0164_0470.jpg,0164,奔驰_迈巴赫S级,0759,奔驰_奔驰CLS,0.2244
+dataset_51\val\0200\0200_0005.jpg,0200,宝马_宝马X6,0304,宝马_宝马X4,0.2974
+dataset_51\val\0200\0200_0221.jpg,0200,宝马_宝马X6,0304,宝马_宝马X4,0.5197
+dataset_51\val\0200\0200_0299.jpg,0200,宝马_宝马X6,0120,宝马_宝马X5,0.7410
+dataset_51\val\0200\0200_0401.jpg,0200,宝马_宝马X6,0120,宝马_宝马X5,0.6243
+dataset_51\val\0222\0222_0009.jpg,0222,宝马_宝马X7,0120,宝马_宝马X5,0.5076
+dataset_51\val\0281\0281_0461.jpg,0281,宝马_宝马1系,0441,宝马_宝马M3,0.1088
+dataset_51\val\0290\0290_0107.jpg,0290,奥迪_奥迪RS 5,0643,奥迪_奥迪S5,0.2162
+dataset_51\val\0290\0290_0170.jpg,0290,奥迪_奥迪RS 5,0057,奔驰_奔驰G级,0.1344
+dataset_51\val\0290\0290_0227.jpg,0290,奥迪_奥迪RS 5,0643,奥迪_奥迪S5,0.1951
+dataset_51\val\0290\0290_0352.jpg,0290,奥迪_奥迪RS 5,0643,奥迪_奥迪S5,0.3931
+dataset_51\val\0304\0304_0044.jpg,0304,宝马_宝马X4,0683,宝马_宝马X3,0.4281
+dataset_51\val\0304\0304_0058.jpg,0304,宝马_宝马X4,0200,宝马_宝马X6,0.6098
+dataset_51\val\0304\0304_0100.jpg,0304,宝马_宝马X4,0613,宝马_宝马M8,0.1820
+dataset_51\val\0304\0304_0104.jpg,0304,宝马_宝马X4,0120,宝马_宝马X5,0.1327
+dataset_51\val\0304\0304_0271.jpg,0304,宝马_宝马X4,0683,宝马_宝马X3,0.2986
+dataset_51\val\0304\0304_0303.jpg,0304,宝马_宝马X4,unknown,unknown,0.3217
+dataset_51\val\0304\0304_0341.jpg,0304,宝马_宝马X4,0200,宝马_宝马X6,0.3489
+dataset_51\val\0317\0317_0163.jpg,0317,奔驰_AMG GT,unknown,unknown,0.1046
+dataset_51\val\0317\0317_0332.jpg,0317,奔驰_AMG GT,0445,奔驰_奔驰CLA,0.1592
+dataset_51\val\0317\0317_0479.jpg,0317,奔驰_AMG GT,0671,宝马_宝马M2,0.2097
+dataset_51\val\0325\0325_0040.jpg,0325,奥迪_奥迪R8,unknown,unknown,0.3276
+dataset_51\val\0325\0325_0407.jpg,0325,奥迪_奥迪R8,0449,奔驰_奔驰SL级AMG,0.2560
+dataset_51\val\0325\0325_0461.jpg,0325,奥迪_奥迪R8,0449,奔驰_奔驰SL级AMG,0.1119
+dataset_51\val\0329\0329_0008.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.3099
+dataset_51\val\0329\0329_0009.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.4564
+dataset_51\val\0329\0329_0015.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.3843
+dataset_51\val\0329\0329_0073.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.4723
+dataset_51\val\0329\0329_0179.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.9567
+dataset_51\val\0329\0329_0181.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.9735
+dataset_51\val\0329\0329_0187.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.3411
+dataset_51\val\0329\0329_0245.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.5927
+dataset_51\val\0329\0329_0308.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.7248
+dataset_51\val\0329\0329_0310.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.8515
+dataset_51\val\0329\0329_0311.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.5041
+dataset_51\val\0329\0329_0318.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.3929
+dataset_51\val\0329\0329_0353.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.7659
+dataset_51\val\0329\0329_0384.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.3352
+dataset_51\val\0329\0329_0396.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.4688
+dataset_51\val\0329\0329_0398.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.7870
+dataset_51\val\0329\0329_0445.jpg,0329,奥迪_奥迪A7,0008,奥迪_奥迪A7L,0.4876
+dataset_51\val\0362\0362_0032.jpg,0362,奔驰_奔驰A级AMG,0445,奔驰_奔驰CLA,0.2586
+dataset_51\val\0362\0362_0459.jpg,0362,奔驰_奔驰A级AMG,0317,奔驰_AMG GT,0.4209
+dataset_51\val\0362\0362_0464.jpg,0362,奔驰_奔驰A级AMG,0317,奔驰_AMG GT,0.5508
+dataset_51\val\0432\0432_0087.jpg,0432,奔驰_奔驰GLE,unknown,unknown,0.4767
+dataset_51\val\0432\0432_0171.jpg,0432,奔驰_奔驰GLE,0649,奔驰_奔驰GLC轿跑,0.5443
+dataset_51\val\0432\0432_0217.jpg,0432,奔驰_奔驰GLE,0958,奔驰_奔驰GLS,0.2006
+dataset_51\val\0432\0432_0228.jpg,0432,奔驰_奔驰GLE,0958,奔驰_奔驰GLS,0.4161
+dataset_51\val\0432\0432_0263.jpg,0432,奔驰_奔驰GLE,0958,奔驰_奔驰GLS,0.5547
+dataset_51\val\0432\0432_0272.jpg,0432,奔驰_奔驰GLE,unknown,unknown,0.1864
+dataset_51\val\0432\0432_0281.jpg,0432,奔驰_奔驰GLE,0958,奔驰_奔驰GLS,0.2388
+dataset_51\val\0432\0432_0389.jpg,0432,奔驰_奔驰GLE,0958,奔驰_奔驰GLS,0.4651
+dataset_51\val\0432\0432_0431.jpg,0432,奔驰_奔驰GLE,0837,奔驰_奔驰C级AMG,0.0977
+dataset_51\val\0432\0432_0470.jpg,0432,奔驰_奔驰GLE,0958,奔驰_奔驰GLS,0.8069
+dataset_51\val\0432\0432_0474.jpg,0432,奔驰_奔驰GLE,0958,奔驰_奔驰GLS,0.5899
+dataset_51\val\0441\0441_0013.jpg,0441,宝马_宝马M3,0020,宝马_宝马M4,0.6176
+dataset_51\val\0441\0441_0044.jpg,0441,宝马_宝马M3,0020,宝马_宝马M4,0.5101
+dataset_51\val\0441\0441_0163.jpg,0441,宝马_宝马M3,0671,宝马_宝马M2,0.2226
+dataset_51\val\0441\0441_0347.jpg,0441,宝马_宝马M3,0063,宝马_宝马3系,0.1494
+dataset_51\val\0441\0441_0419.jpg,0441,宝马_宝马M3,0449,奔驰_奔驰SL级AMG,0.2412
+dataset_51\val\0441\0441_0473.jpg,0441,宝马_宝马M3,0567,奥迪_奥迪Q8,0.2052
+dataset_51\val\0445\0445_0017.jpg,0445,奔驰_奔驰CLA,0688,奔驰_奔驰C级,0.6193
+dataset_51\val\0445\0445_0025.jpg,0445,奔驰_奔驰CLA,unknown,unknown,0.4815
+dataset_51\val\0445\0445_0082.jpg,0445,奔驰_奔驰CLA,unknown,unknown,0.5892
+dataset_51\val\0445\0445_0162.jpg,0445,奔驰_奔驰CLA,0139,奔驰_奔驰A级,0.3440
+dataset_51\val\0445\0445_0228.jpg,0445,奔驰_奔驰CLA,0139,奔驰_奔驰A级,0.2879
+dataset_51\val\0445\0445_0285.jpg,0445,奔驰_奔驰CLA,0837,奔驰_奔驰C级AMG,0.2210
+dataset_51\val\0445\0445_0492.jpg,0445,奔驰_奔驰CLA,unknown,unknown,0.7513
+dataset_51\val\0449\0449_0003.jpg,0449,奔驰_奔驰SL级AMG,0727,奔驰_奔驰E级,0.1092
+dataset_51\val\0449\0449_0226.jpg,0449,奔驰_奔驰SL级AMG,0020,宝马_宝马M4,0.6733
+dataset_51\val\0449\0449_0235.jpg,0449,奔驰_奔驰SL级AMG,0317,奔驰_AMG GT,0.2841
+dataset_51\val\0449\0449_0401.jpg,0449,奔驰_奔驰SL级AMG,unknown,unknown,0.3212
+dataset_51\val\0449\0449_0477.jpg,0449,奔驰_奔驰SL级AMG,0441,宝马_宝马M3,0.5607
+dataset_51\val\0456\0456_0214.jpg,0456,奥迪_奥迪A8,unknown,unknown,0.2127
+dataset_51\val\0456\0456_0377.jpg,0456,奥迪_奥迪A8,0666,奥迪_奥迪S6,0.4140
+dataset_51\val\0456\0456_0466.jpg,0456,奥迪_奥迪A8,0666,奥迪_奥迪S6,0.1604
+dataset_51\val\0480\0480_0069.jpg,0480,宝马_宝马Z4,unknown,unknown,0.4017
+dataset_51\val\0480\0480_0417.jpg,0480,宝马_宝马Z4,0020,宝马_宝马M4,0.1231
+dataset_51\val\0480\0480_0463.jpg,0480,宝马_宝马Z4,0582,宝马_宝马5系,0.2299
+dataset_51\val\0480\0480_0485.jpg,0480,宝马_宝马Z4,unknown,unknown,0.2566
+dataset_51\val\0545\0545_0316.jpg,0545,奥迪_奥迪Q2L,0762,奥迪_奥迪Q3,0.8966
+dataset_51\val\0545\0545_0427.jpg,0545,奥迪_奥迪Q2L,0614,奥迪_奥迪Q5L,0.8805
+dataset_51\val\0567\0567_0162.jpg,0567,奥迪_奥迪Q8,unknown,unknown,0.6557
+dataset_51\val\0582\0582_0318.jpg,0582,宝马_宝马5系,unknown,unknown,0.3539
+dataset_51\val\0582\0582_0362.jpg,0582,宝马_宝马5系,0281,宝马_宝马1系,0.2806
+dataset_51\val\0582\0582_0423.jpg,0582,宝马_宝马5系,unknown,unknown,0.4503
+dataset_51\val\0582\0582_0470.jpg,0582,宝马_宝马5系,0063,宝马_宝马3系,0.5069
+dataset_51\val\0587\0587_0013.jpg,0587,奔驰_奔驰GLA,unknown,unknown,0.4186
+dataset_51\val\0587\0587_0433.jpg,0587,奔驰_奔驰GLA,0683,宝马_宝马X3,0.2464
+dataset_51\val\0609\0609_0286.jpg,0609,宝马_宝马i4,0063,宝马_宝马3系,0.1641
+dataset_51\val\0609\0609_0350.jpg,0609,宝马_宝马i4,unknown,unknown,0.4447
+dataset_51\val\0609\0609_0357.jpg,0609,宝马_宝马i4,unknown,unknown,0.6725
+dataset_51\val\0609\0609_0404.jpg,0609,宝马_宝马i4,0870,宝马_宝马4系,0.9626
+dataset_51\val\0609\0609_0468.jpg,0609,宝马_宝马i4,0870,宝马_宝马4系,0.9515
+dataset_51\val\0613\0613_0299.jpg,0613,宝马_宝马M8,0120,宝马_宝马X5,0.4112
+dataset_51\val\0614\0614_0163.jpg,0614,奥迪_奥迪Q5L,0266,奥迪_奥迪Q7,0.2341
+dataset_51\val\0632\0632_0070.jpg,0632,奥迪_奥迪A6 China Domestic Version,0008,奥迪_奥迪A7L,0.7577
+dataset_51\val\0632\0632_0111.jpg,0632,奥迪_奥迪A6 China Domestic Version,0666,奥迪_奥迪S6,0.7696
+dataset_51\val\0632\0632_0157.jpg,0632,奥迪_奥迪A6 China Domestic Version,0666,奥迪_奥迪S6,0.2815
+dataset_51\val\0632\0632_0183.jpg,0632,奥迪_奥迪A6 China Domestic Version,0432,奔驰_奔驰GLE,0.3768
+dataset_51\val\0632\0632_0193.jpg,0632,奥迪_奥迪A6 China Domestic Version,0456,奥迪_奥迪A8,0.2462
+dataset_51\val\0632\0632_0212.jpg,0632,奥迪_奥迪A6 China Domestic Version,0666,奥迪_奥迪S6,0.5320
+dataset_51\val\0632\0632_0226.jpg,0632,奥迪_奥迪A6 China Domestic Version,unknown,unknown,0.5375
+dataset_51\val\0632\0632_0232.jpg,0632,奥迪_奥迪A6 China Domestic Version,0456,奥迪_奥迪A8,0.2452
+dataset_51\val\0632\0632_0233.jpg,0632,奥迪_奥迪A6 China Domestic Version,0666,奥迪_奥迪S6,0.2778
+dataset_51\val\0632\0632_0240.jpg,0632,奥迪_奥迪A6 China Domestic Version,0666,奥迪_奥迪S6,0.6118
+dataset_51\val\0632\0632_0257.jpg,0632,奥迪_奥迪A6 China Domestic Version,0666,奥迪_奥迪S6,0.6237
+dataset_51\val\0643\0643_0002.jpg,0643,奥迪_奥迪S5,0290,奥迪_奥迪RS 5,0.2352
+dataset_51\val\0643\0643_0174.jpg,0643,奥迪_奥迪S5,0837,奔驰_奔驰C级AMG,0.0894
+dataset_51\val\0643\0643_0227.jpg,0643,奥迪_奥迪S5,unknown,unknown,0.2261
+dataset_51\val\0643\0643_0352.jpg,0643,奥迪_奥迪S5,0110,奥迪_奥迪A3,0.4580
+dataset_51\val\0643\0643_0402.jpg,0643,奥迪_奥迪S5,0329,奥迪_奥迪A7,0.2423
+dataset_51\val\0643\0643_0406.jpg,0643,奥迪_奥迪S5,0290,奥迪_奥迪RS 5,0.2316
+dataset_51\val\0643\0643_0419.jpg,0643,奥迪_奥迪S5,0290,奥迪_奥迪RS 5,0.6540
+dataset_51\val\0649\0649_0028.jpg,0649,奔驰_奔驰GLC轿跑,0936,奔驰_奔驰GLC,0.5178
+dataset_51\val\0649\0649_0035.jpg,0649,奔驰_奔驰GLC轿跑,0059,奔驰_奔驰GLC AMG,0.2716
+dataset_51\val\0649\0649_0109.jpg,0649,奔驰_奔驰GLC轿跑,0936,奔驰_奔驰GLC,0.4140
+dataset_51\val\0649\0649_0175.jpg,0649,奔驰_奔驰GLC轿跑,0059,奔驰_奔驰GLC AMG,0.5194
+dataset_51\val\0649\0649_0405.jpg,0649,奔驰_奔驰GLC轿跑,0936,奔驰_奔驰GLC,0.8121
+dataset_51\val\0649\0649_0409.jpg,0649,奔驰_奔驰GLC轿跑,0683,宝马_宝马X3,0.1536
+dataset_51\val\0649\0649_0411.jpg,0649,奔驰_奔驰GLC轿跑,0936,奔驰_奔驰GLC,0.1833
+dataset_51\val\0649\0649_0415.jpg,0649,奔驰_奔驰GLC轿跑,0936,奔驰_奔驰GLC,0.9602
+dataset_51\val\0649\0649_0417.jpg,0649,奔驰_奔驰GLC轿跑,0936,奔驰_奔驰GLC,0.4877
+dataset_51\val\0649\0649_0419.jpg,0649,奔驰_奔驰GLC轿跑,0727,奔驰_奔驰E级,0.1675
+dataset_51\val\0649\0649_0469.jpg,0649,奔驰_奔驰GLC轿跑,unknown,unknown,0.3879
+dataset_51\val\0666\0666_0008.jpg,0666,奥迪_奥迪S6,0329,奥迪_奥迪A7,0.2154
+dataset_51\val\0666\0666_0010.jpg,0666,奥迪_奥迪S6,0632,奥迪_奥迪A6 China Domestic Version,0.4665
+dataset_51\val\0666\0666_0047.jpg,0666,奥迪_奥迪S6,0632,奥迪_奥迪A6 China Domestic Version,0.5465
+dataset_51\val\0666\0666_0117.jpg,0666,奥迪_奥迪S6,0632,奥迪_奥迪A6 China Domestic Version,0.7544
+dataset_51\val\0666\0666_0168.jpg,0666,奥迪_奥迪S6,0632,奥迪_奥迪A6 China Domestic Version,0.1267
+dataset_51\val\0666\0666_0226.jpg,0666,奥迪_奥迪S6,0632,奥迪_奥迪A6 China Domestic Version,0.4771
+dataset_51\val\0666\0666_0237.jpg,0666,奥迪_奥迪S6,unknown,unknown,0.1811
+dataset_51\val\0666\0666_0291.jpg,0666,奥迪_奥迪S6,0445,奔驰_奔驰CLA,0.1126
+dataset_51\val\0666\0666_0297.jpg,0666,奥迪_奥迪S6,0632,奥迪_奥迪A6 China Domestic Version,0.3265
+dataset_51\val\0666\0666_0469.jpg,0666,奥迪_奥迪S6,0632,奥迪_奥迪A6 China Domestic Version,0.4280
+dataset_51\val\0671\0671_0419.jpg,0671,宝马_宝马M2,0020,宝马_宝马M4,0.2808
+dataset_51\val\0683\0683_0143.jpg,0683,宝马_宝马X3,0120,宝马_宝马X5,0.2099
+dataset_51\val\0683\0683_0349.jpg,0683,宝马_宝马X3,0222,宝马_宝马X7,0.2025
+dataset_51\val\0688\0688_0179.jpg,0688,奔驰_奔驰C级,0727,奔驰_奔驰E级,0.1292
+dataset_51\val\0688\0688_0232.jpg,0688,奔驰_奔驰C级,0727,奔驰_奔驰E级,0.2389
+dataset_51\val\0688\0688_0251.jpg,0688,奔驰_奔驰C级,0139,奔驰_奔驰A级,0.3049
+dataset_51\val\0688\0688_0342.jpg,0688,奔驰_奔驰C级,0837,奔驰_奔驰C级AMG,0.5569
+dataset_51\val\0688\0688_0375.jpg,0688,奔驰_奔驰C级,0837,奔驰_奔驰C级AMG,0.2997
+dataset_51\val\0688\0688_0378.jpg,0688,奔驰_奔驰C级,0362,奔驰_奔驰A级AMG,0.1416
+dataset_51\val\0688\0688_0406.jpg,0688,奔驰_奔驰C级,0063,宝马_宝马3系,0.3254
+dataset_51\val\0688\0688_0450.jpg,0688,奔驰_奔驰C级,0441,宝马_宝马M3,0.1249
+dataset_51\val\0688\0688_0474.jpg,0688,奔驰_奔驰C级,0837,奔驰_奔驰C级AMG,0.1045
+dataset_51\val\0688\0688_0478.jpg,0688,奔驰_奔驰C级,0936,奔驰_奔驰GLC,0.2061
+dataset_51\val\0688\0688_0496.jpg,0688,奔驰_奔驰C级,0837,奔驰_奔驰C级AMG,0.1259
+dataset_51\val\0726\0726_0005.jpg,0726,奥迪_奥迪Q3 Sportback,0762,奥迪_奥迪Q3,0.8618
+dataset_51\val\0726\0726_0050.jpg,0726,奥迪_奥迪Q3 Sportback,0762,奥迪_奥迪Q3,0.8171
+dataset_51\val\0726\0726_0110.jpg,0726,奥迪_奥迪Q3 Sportback,0762,奥迪_奥迪Q3,0.7685
+dataset_51\val\0726\0726_0161.jpg,0726,奥迪_奥迪Q3 Sportback,0762,奥迪_奥迪Q3,0.1379
+dataset_51\val\0726\0726_0401.jpg,0726,奥迪_奥迪Q3 Sportback,0762,奥迪_奥迪Q3,0.8673
+dataset_51\val\0726\0726_0409.jpg,0726,奥迪_奥迪Q3 Sportback,0762,奥迪_奥迪Q3,0.4474
+dataset_51\val\0727\0727_0099.jpg,0727,奔驰_奔驰E级,0164,奔驰_迈巴赫S级,0.1945
+dataset_51\val\0727\0727_0262.jpg,0727,奔驰_奔驰E级,0182,奔驰_迈巴赫GLS,0.3498
+dataset_51\val\0727\0727_0286.jpg,0727,奔驰_奔驰E级,0649,奔驰_奔驰GLC轿跑,0.2384
+dataset_51\val\0759\0759_0013.jpg,0759,奔驰_奔驰CLS,0727,奔驰_奔驰E级,0.4995
+dataset_51\val\0759\0759_0018.jpg,0759,奔驰_奔驰CLS,0432,奔驰_奔驰GLE,0.1708
+dataset_51\val\0759\0759_0036.jpg,0759,奔驰_奔驰CLS,unknown,unknown,0.7445
+dataset_51\val\0759\0759_0072.jpg,0759,奔驰_奔驰CLS,0727,奔驰_奔驰E级,0.4180
+dataset_51\val\0759\0759_0074.jpg,0759,奔驰_奔驰CLS,0139,奔驰_奔驰A级,0.7113
+dataset_51\val\0759\0759_0374.jpg,0759,奔驰_奔驰CLS,0727,奔驰_奔驰E级,0.2401
+dataset_51\val\0759\0759_0463.jpg,0759,奔驰_奔驰CLS,unknown,unknown,0.5340
+dataset_51\val\0759\0759_0494.jpg,0759,奔驰_奔驰CLS,0837,奔驰_奔驰C级AMG,0.4223
+dataset_51\val\0762\0762_0004.jpg,0762,奥迪_奥迪Q3,0726,奥迪_奥迪Q3 Sportback,0.5367
+dataset_51\val\0762\0762_0013.jpg,0762,奥迪_奥迪Q3,0726,奥迪_奥迪Q3 Sportback,0.4903
+dataset_51\val\0762\0762_0051.jpg,0762,奥迪_奥迪Q3,0545,奥迪_奥迪Q2L,0.4251
+dataset_51\val\0762\0762_0148.jpg,0762,奥迪_奥迪Q3,0726,奥迪_奥迪Q3 Sportback,0.8510
+dataset_51\val\0762\0762_0187.jpg,0762,奥迪_奥迪Q3,0726,奥迪_奥迪Q3 Sportback,0.9115
+dataset_51\val\0762\0762_0208.jpg,0762,奥迪_奥迪Q3,0726,奥迪_奥迪Q3 Sportback,0.4144
+dataset_51\val\0762\0762_0211.jpg,0762,奥迪_奥迪Q3,0726,奥迪_奥迪Q3 Sportback,0.7993
+dataset_51\val\0762\0762_0229.jpg,0762,奥迪_奥迪Q3,0609,宝马_宝马i4,0.1727
+dataset_51\val\0762\0762_0233.jpg,0762,奥迪_奥迪Q3,0726,奥迪_奥迪Q3 Sportback,0.7756
+dataset_51\val\0762\0762_0243.jpg,0762,奥迪_奥迪Q3,0726,奥迪_奥迪Q3 Sportback,0.4402
+dataset_51\val\0762\0762_0304.jpg,0762,奥迪_奥迪Q3,0726,奥迪_奥迪Q3 Sportback,0.8875
+dataset_51\val\0762\0762_0453.jpg,0762,奥迪_奥迪Q3,0726,奥迪_奥迪Q3 Sportback,0.9388
+dataset_51\val\0762\0762_0469.jpg,0762,奥迪_奥迪Q3,0545,奥迪_奥迪Q2L,0.2341
+dataset_51\val\0837\0837_0008.jpg,0837,奔驰_奔驰C级AMG,0688,奔驰_奔驰C级,0.8520
+dataset_51\val\0837\0837_0105.jpg,0837,奔驰_奔驰C级AMG,0362,奔驰_奔驰A级AMG,0.6679
+dataset_51\val\0837\0837_0173.jpg,0837,奔驰_奔驰C级AMG,0317,奔驰_AMG GT,0.1054
+dataset_51\val\0837\0837_0294.jpg,0837,奔驰_奔驰C级AMG,0688,奔驰_奔驰C级,0.2343
+dataset_51\val\0837\0837_0340.jpg,0837,奔驰_奔驰C级AMG,0759,奔驰_奔驰CLS,0.4090
+dataset_51\val\0837\0837_0406.jpg,0837,奔驰_奔驰C级AMG,0317,奔驰_AMG GT,0.5345
+dataset_51\val\0870\0870_0009.jpg,0870,宝马_宝马4系,0063,宝马_宝马3系,0.5924
+dataset_51\val\0870\0870_0101.jpg,0870,宝马_宝马4系,0480,宝马_宝马Z4,0.1599
+dataset_51\val\0870\0870_0186.jpg,0870,宝马_宝马4系,0063,宝马_宝马3系,0.2533
+dataset_51\val\0870\0870_0233.jpg,0870,宝马_宝马4系,0977,宝马_宝马X2,0.2185
+dataset_51\val\0870\0870_0258.jpg,0870,宝马_宝马4系,0609,宝马_宝马i4,0.4870
+dataset_51\val\0870\0870_0259.jpg,0870,宝马_宝马4系,0582,宝马_宝马5系,0.2625
+dataset_51\val\0870\0870_0282.jpg,0870,宝马_宝马4系,0609,宝马_宝马i4,0.5043
+dataset_51\val\0870\0870_0331.jpg,0870,宝马_宝马4系,0063,宝马_宝马3系,0.2389
+dataset_51\val\0870\0870_0361.jpg,0870,宝马_宝马4系,0063,宝马_宝马3系,0.3148
+dataset_51\val\0870\0870_0382.jpg,0870,宝马_宝马4系,0063,宝马_宝马3系,0.1938
+dataset_51\val\0870\0870_0390.jpg,0870,宝马_宝马4系,0063,宝马_宝马3系,0.3249
+dataset_51\val\0870\0870_0479.jpg,0870,宝马_宝马4系,0480,宝马_宝马Z4,0.2307
+dataset_51\val\0936\0936_0008.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.2691
+dataset_51\val\0936\0936_0017.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.8718
+dataset_51\val\0936\0936_0039.jpg,0936,奔驰_奔驰GLC,0958,奔驰_奔驰GLS,0.4487
+dataset_51\val\0936\0936_0068.jpg,0936,奔驰_奔驰GLC,0059,奔驰_奔驰GLC AMG,0.4889
+dataset_51\val\0936\0936_0076.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.5659
+dataset_51\val\0936\0936_0111.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.5679
+dataset_51\val\0936\0936_0169.jpg,0936,奔驰_奔驰GLC,unknown,unknown,0.2472
+dataset_51\val\0936\0936_0224.jpg,0936,奔驰_奔驰GLC,0614,奥迪_奥迪Q5L,0.3614
+dataset_51\val\0936\0936_0238.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.8492
+dataset_51\val\0936\0936_0277.jpg,0936,奔驰_奔驰GLC,unknown,unknown,0.2658
+dataset_51\val\0936\0936_0292.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.5854
+dataset_51\val\0936\0936_0322.jpg,0936,奔驰_奔驰GLC,0059,奔驰_奔驰GLC AMG,0.2373
+dataset_51\val\0936\0936_0334.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.8678
+dataset_51\val\0936\0936_0340.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.4461
+dataset_51\val\0936\0936_0366.jpg,0936,奔驰_奔驰GLC,0958,奔驰_奔驰GLS,0.1468
+dataset_51\val\0936\0936_0371.jpg,0936,奔驰_奔驰GLC,0587,奔驰_奔驰GLA,0.3687
+dataset_51\val\0936\0936_0401.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.9636
+dataset_51\val\0936\0936_0431.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.6296
+dataset_51\val\0936\0936_0438.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.2400
+dataset_51\val\0936\0936_0471.jpg,0936,奔驰_奔驰GLC,0649,奔驰_奔驰GLC轿跑,0.6535
+dataset_51\val\0936\0936_0499.jpg,0936,奔驰_奔驰GLC,0958,奔驰_奔驰GLS,0.2807
+dataset_51\val\0958\0958_0096.jpg,0958,奔驰_奔驰GLS,0059,奔驰_奔驰GLC AMG,0.4983
+dataset_51\val\0958\0958_0172.jpg,0958,奔驰_奔驰GLS,0683,宝马_宝马X3,0.2605
+dataset_51\val\0958\0958_0216.jpg,0958,奔驰_奔驰GLS,0432,奔驰_奔驰GLE,0.8173
+dataset_51\val\0958\0958_0242.jpg,0958,奔驰_奔驰GLS,0432,奔驰_奔驰GLE,0.1534
+dataset_51\val\0958\0958_0461.jpg,0958,奔驰_奔驰GLS,0432,奔驰_奔驰GLE,0.5209
+dataset_51\val\0958\0958_0487.jpg,0958,奔驰_奔驰GLS,0432,奔驰_奔驰GLE,0.4309
+dataset_51\val\0977\0977_0245.jpg,0977,宝马_宝马X2,0200,宝马_宝马X6,0.1416
+dataset_51\val\0977\0977_0284.jpg,0977,宝马_宝马X2,0304,宝马_宝马X4,0.4259
+dataset_51\val\0977\0977_0414.jpg,0977,宝马_宝马X2,0200,宝马_宝马X6,0.2319
+dataset_51\val\unknown\0034_0034_0172.jpg,unknown,unknown,0649,奔驰_奔驰GLC轿跑,0.1569
+dataset_51\val\unknown\0102_0102_0177.jpg,unknown,unknown,0120,宝马_宝马X5,0.2252
+dataset_51\val\unknown\0102_0102_0349.jpg,unknown,unknown,0683,宝马_宝马X3,0.3745
+dataset_51\val\unknown\0129_0129_0104.jpg,unknown,unknown,0613,宝马_宝马M8,0.2060
+dataset_51\val\unknown\0129_0129_0129.jpg,unknown,unknown,0325,奥迪_奥迪R8,0.1266
+dataset_51\val\unknown\0282_0282_0065.jpg,unknown,unknown,0008,奥迪_奥迪A7L,0.3031
+dataset_51\val\unknown\0282_0282_0342.jpg,unknown,unknown,0329,奥迪_奥迪A7,0.1043
+dataset_51\val\unknown\0308_0308_0468.jpg,unknown,unknown,0304,宝马_宝马X4,0.2703
+dataset_51\val\unknown\0350_0350_0077.jpg,unknown,unknown,0977,宝马_宝马X2,0.1717
+dataset_51\val\unknown\0350_0350_0246.jpg,unknown,unknown,0480,宝马_宝马Z4,0.1742
+dataset_51\val\unknown\0354_0354_0010.jpg,unknown,unknown,0445,奔驰_奔驰CLA,0.8993
+dataset_51\val\unknown\0354_0354_0028.jpg,unknown,unknown,0445,奔驰_奔驰CLA,0.3003
+dataset_51\val\unknown\0354_0354_0167.jpg,unknown,unknown,0759,奔驰_奔驰CLS,0.1898
+dataset_51\val\unknown\0354_0354_0285.jpg,unknown,unknown,0445,奔驰_奔驰CLA,0.5047
+dataset_51\val\unknown\0354_0354_0408.jpg,unknown,unknown,0445,奔驰_奔驰CLA,0.6045
+dataset_51\val\unknown\0444_0444_0178.jpg,unknown,unknown,0567,奥迪_奥迪Q8,0.1015
+dataset_51\val\unknown\0444_0444_0348.jpg,unknown,unknown,0567,奥迪_奥迪Q8,0.2903
+dataset_51\val\unknown\0470_0470_0110.jpg,unknown,unknown,0164,奔驰_迈巴赫S级,0.2250
+dataset_51\val\unknown\0470_0470_0287.jpg,unknown,unknown,0632,奥迪_奥迪A6 China Domestic Version,0.1524
+dataset_51\val\unknown\0492_0492_0019.jpg,unknown,unknown,0441,宝马_宝马M3,0.0756
+dataset_51\val\unknown\0492_0492_0061.jpg,unknown,unknown,0632,奥迪_奥迪A6 China Domestic Version,0.1852
+dataset_51\val\unknown\0492_0492_0462.jpg,unknown,unknown,0432,奔驰_奔驰GLE,0.1259
+dataset_51\val\unknown\0495_0495_0016.jpg,unknown,unknown,0958,奔驰_奔驰GLS,0.1172
+dataset_51\val\unknown\0495_0495_0109.jpg,unknown,unknown,0432,奔驰_奔驰GLE,0.5465
+dataset_51\val\unknown\0495_0495_0238.jpg,unknown,unknown,0587,奔驰_奔驰GLA,0.3534
+dataset_51\val\unknown\0495_0495_0353.jpg,unknown,unknown,0432,奔驰_奔驰GLE,0.6475
+dataset_51\val\unknown\0781_0781_0020.jpg,unknown,unknown,0200,宝马_宝马X6,0.2682
+dataset_51\val\unknown\0797_0797_0175.jpg,unknown,unknown,0110,奥迪_奥迪A3,0.3649
+dataset_51\val\unknown\0986_0986_0359.jpg,unknown,unknown,0110,奥迪_奥迪A3,0.2362
+dataset_51\val\unknown\0986_0986_0451.jpg,unknown,unknown,0759,奔驰_奔驰CLS,0.3023
+dataset_51\val\unknown\0991_0991_0415.jpg,unknown,unknown,0632,奥迪_奥迪A6 China Domestic Version,0.2372

@@ -1,0 +1,309 @@
+{
+  "classes": [
+    {
+      "index": 0,
+      "id": "0008",
+      "name": "奥迪_奥迪A7L",
+      "type": "轿车####中大型车==Sedan####Upper Mid-size Sedan"
+    },
+    {
+      "index": 1,
+      "id": "0020",
+      "name": "宝马_宝马M4",
+      "type": "轿车####中型车==Sedan####Mid-size Sedan"
+    },
+    {
+      "index": 2,
+      "id": "0057",
+      "name": "奔驰_奔驰G级",
+      "type": "SUV####中大型SUV==SUV####Upper Mid-size SUV"
+    },
+    {
+      "index": 3,
+      "id": "0059",
+      "name": "奔驰_奔驰GLC AMG",
+      "type": "SUV####中型SUV==SUV####Mid-size SUV"
+    },
+    {
+      "index": 4,
+      "id": "0063",
+      "name": "宝马_宝马3系",
+      "type": "轿车####中型车==Sedan####Mid-size Sedan"
+    },
+    {
+      "index": 5,
+      "id": "0110",
+      "name": "奥迪_奥迪A3",
+      "type": "轿车####紧凑型车==Sedan####Compact Sedan"
+    },
+    {
+      "index": 6,
+      "id": "0120",
+      "name": "宝马_宝马X5",
+      "type": "SUV####中大型SUV==SUV####Upper Mid-size SUV"
+    },
+    {
+      "index": 7,
+      "id": "0139",
+      "name": "奔驰_奔驰A级",
+      "type": "轿车####紧凑型车==Sedan####Compact Sedan"
+    },
+    {
+      "index": 8,
+      "id": "0159",
+      "name": "奔驰_奔驰S级",
+      "type": "轿车####大型车==Sedan####Large Sedan"
+    },
+    {
+      "index": 9,
+      "id": "0164",
+      "name": "奔驰_迈巴赫S级",
+      "type": "轿车####大型车==Sedan####Large Sedan"
+    },
+    {
+      "index": 10,
+      "id": "0182",
+      "name": "奔驰_迈巴赫GLS",
+      "type": "SUV####大型SUV==SUV####Large SUV"
+    },
+    {
+      "index": 11,
+      "id": "0200",
+      "name": "宝马_宝马X6",
+      "type": "SUV####中大型SUV==SUV####Upper Mid-size SUV"
+    },
+    {
+      "index": 12,
+      "id": "0222",
+      "name": "宝马_宝马X7",
+      "type": "SUV####大型SUV==SUV####Large SUV"
+    },
+    {
+      "index": 13,
+      "id": "0266",
+      "name": "奥迪_奥迪Q7",
+      "type": "SUV####中大型SUV==SUV####Upper Mid-size SUV"
+    },
+    {
+      "index": 14,
+      "id": "0281",
+      "name": "宝马_宝马1系",
+      "type": "轿车####紧凑型车==Sedan####Compact Sedan"
+    },
+    {
+      "index": 15,
+      "id": "0290",
+      "name": "奥迪_奥迪RS 5",
+      "type": "轿车####中型车==Sedan####Mid-size Sedan"
+    },
+    {
+      "index": 16,
+      "id": "0304",
+      "name": "宝马_宝马X4",
+      "type": "SUV####中型SUV==SUV####Mid-size SUV"
+    },
+    {
+      "index": 17,
+      "id": "0317",
+      "name": "奔驰_AMG GT",
+      "type": "跑车####跑车==Sports Car####Sports Car"
+    },
+    {
+      "index": 18,
+      "id": "0325",
+      "name": "奥迪_奥迪R8",
+      "type": "跑车####跑车==Sports Car####Sports Car"
+    },
+    {
+      "index": 19,
+      "id": "0329",
+      "name": "奥迪_奥迪A7",
+      "type": "轿车####中大型车==Sedan####Upper Mid-size Sedan"
+    },
+    {
+      "index": 20,
+      "id": "0362",
+      "name": "奔驰_奔驰A级AMG",
+      "type": "轿车####紧凑型车==Sedan####Compact Sedan"
+    },
+    {
+      "index": 21,
+      "id": "0432",
+      "name": "奔驰_奔驰GLE",
+      "type": "SUV####中大型SUV==SUV####Upper Mid-size SUV"
+    },
+    {
+      "index": 22,
+      "id": "0441",
+      "name": "宝马_宝马M3",
+      "type": "轿车####中型车==Sedan####Mid-size Sedan"
+    },
+    {
+      "index": 23,
+      "id": "0445",
+      "name": "奔驰_奔驰CLA",
+      "type": "轿车####紧凑型车==Sedan####Compact Sedan"
+    },
+    {
+      "index": 24,
+      "id": "0449",
+      "name": "奔驰_奔驰SL级AMG",
+      "type": "跑车####跑车==Sports Car####Sports Car"
+    },
+    {
+      "index": 25,
+      "id": "0456",
+      "name": "奥迪_奥迪A8",
+      "type": "轿车####大型车==Sedan####Large Sedan"
+    },
+    {
+      "index": 26,
+      "id": "0480",
+      "name": "宝马_宝马Z4",
+      "type": "跑车####跑车==Sports Car####Sports Car"
+    },
+    {
+      "index": 27,
+      "id": "0545",
+      "name": "奥迪_奥迪Q2L",
+      "type": "SUV####小型SUV==SUV####Small SUV"
+    },
+    {
+      "index": 28,
+      "id": "0567",
+      "name": "奥迪_奥迪Q8",
+      "type": "SUV####中大型SUV==SUV####Upper Mid-size SUV"
+    },
+    {
+      "index": 29,
+      "id": "0582",
+      "name": "宝马_宝马5系",
+      "type": "轿车####中大型车==Sedan####Upper Mid-size Sedan"
+    },
+    {
+      "index": 30,
+      "id": "0587",
+      "name": "奔驰_奔驰GLA",
+      "type": "SUV####紧凑型SUV==SUV####Compact SUV"
+    },
+    {
+      "index": 31,
+      "id": "0609",
+      "name": "宝马_宝马i4",
+      "type": "轿车####中型车==Sedan####Mid-size Sedan"
+    },
+    {
+      "index": 32,
+      "id": "0613",
+      "name": "宝马_宝马M8",
+      "type": "轿车####大型车==Sedan####Large Sedan"
+    },
+    {
+      "index": 33,
+      "id": "0614",
+      "name": "奥迪_奥迪Q5L",
+      "type": "SUV####中型SUV==SUV####Mid-size SUV"
+    },
+    {
+      "index": 34,
+      "id": "0632",
+      "name": "奥迪_奥迪A6 China Domestic Version",
+      "type": "轿车####中大型车==Sedan####Upper Mid-size Sedan"
+    },
+    {
+      "index": 35,
+      "id": "0643",
+      "name": "奥迪_奥迪S5",
+      "type": "轿车####中型车==Sedan####Mid-size Sedan"
+    },
+    {
+      "index": 36,
+      "id": "0649",
+      "name": "奔驰_奔驰GLC轿跑",
+      "type": "SUV####中型SUV==SUV####Mid-size SUV"
+    },
+    {
+      "index": 37,
+      "id": "0666",
+      "name": "奥迪_奥迪S6",
+      "type": "轿车####中大型车==Sedan####Upper Mid-size Sedan"
+    },
+    {
+      "index": 38,
+      "id": "0671",
+      "name": "宝马_宝马M2",
+      "type": "轿车####紧凑型车==Sedan####Compact Sedan"
+    },
+    {
+      "index": 39,
+      "id": "0683",
+      "name": "宝马_宝马X3",
+      "type": "SUV####中型SUV==SUV####Mid-size SUV"
+    },
+    {
+      "index": 40,
+      "id": "0688",
+      "name": "奔驰_奔驰C级",
+      "type": "轿车####中型车==Sedan####Mid-size Sedan"
+    },
+    {
+      "index": 41,
+      "id": "0726",
+      "name": "奥迪_奥迪Q3 Sportback",
+      "type": "SUV####紧凑型SUV==SUV####Compact SUV"
+    },
+    {
+      "index": 42,
+      "id": "0727",
+      "name": "奔驰_奔驰E级",
+      "type": "轿车####中大型车==Sedan####Upper Mid-size Sedan"
+    },
+    {
+      "index": 43,
+      "id": "0759",
+      "name": "奔驰_奔驰CLS",
+      "type": "轿车####中大型车==Sedan####Upper Mid-size Sedan"
+    },
+    {
+      "index": 44,
+      "id": "0762",
+      "name": "奥迪_奥迪Q3",
+      "type": "SUV####紧凑型SUV==SUV####Compact SUV"
+    },
+    {
+      "index": 45,
+      "id": "0837",
+      "name": "奔驰_奔驰C级AMG",
+      "type": "轿车####中型车==Sedan####Mid-size Sedan"
+    },
+    {
+      "index": 46,
+      "id": "0870",
+      "name": "宝马_宝马4系",
+      "type": "轿车####中型车==Sedan####Mid-size Sedan"
+    },
+    {
+      "index": 47,
+      "id": "0936",
+      "name": "奔驰_奔驰GLC",
+      "type": "SUV####中型SUV==SUV####Mid-size SUV"
+    },
+    {
+      "index": 48,
+      "id": "0958",
+      "name": "奔驰_奔驰GLS",
+      "type": "SUV####大型SUV==SUV####Large SUV"
+    },
+    {
+      "index": 49,
+      "id": "0977",
+      "name": "宝马_宝马X2",
+      "type": "SUV####紧凑型SUV==SUV####Compact SUV"
+    }
+  ],
+  "unknown": {
+    "index": 50,
+    "id": "unknown",
+    "name": "unknown"
+  }
+}

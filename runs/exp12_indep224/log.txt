@@ -1,0 +1,31 @@
+=== 实验 exp12_indep224 ===
+配置: {"model": "efficientnet_b0", "epochs": 10, "head_epochs": 2, "batch_size": 48, "img_size": 224, "lr": 0.0002, "head_lr": 0.001, "weight_decay": 0.0005, "workers": 4, "aug": "strong", "exp": "exp12_indep224", "seed": 2024, "threads": 8, "resume": null, "max_steps": 0, "eval_only": false, "ckpt": null, "tta": false, "label_smoothing": 0.1, "class_weights": false, "class_weight_mode": "sqrt_inv", "mixup": false, "mixup_alpha": 0.2, "use_cutmix": false, "cutmix_alpha": 1.0, "use_tta": true, "grad_clip": 1.0, "ema": false, "ema_decay": 0.999, "warmup_epochs": 2}
+设备: cpu
+train=6971 val=2433 classes=51 aug=strong img_size=224
+[A ep1/2] train_loss=3.7721 train_acc=0.1581 val_MacroF1=0.0913 val_acc=0.2182 val_loss=3.2252 (244s)
+  -> 保存 best (Macro-F1=0.0913)
+[A ep2/2] train_loss=3.2722 train_acc=0.2371 val_MacroF1=0.1728 val_acc=0.3029 val_loss=2.8643 (232s)
+  -> 保存 best (Macro-F1=0.1728)
+[B ep1/10] train_loss=2.7407 train_acc=0.3569 val_MacroF1=0.3800 val_acc=0.4817 val_loss=1.9446 lr=2.00e-04 (727s)
+  -> 保存 best (Macro-F1=0.3800)
+[B ep2/10] train_loss=2.0935 train_acc=0.5557 val_MacroF1=0.5334 val_acc=0.6042 val_loss=1.4307 lr=2.00e-04 (742s)
+  -> 保存 best (Macro-F1=0.5334)
+[B ep3/10] train_loss=1.6633 train_acc=0.7033 val_MacroF1=0.6360 val_acc=0.6938 val_loss=1.1178 lr=1.92e-04 (743s)
+  -> 保存 best (Macro-F1=0.6360)
+[B ep4/10] train_loss=1.4129 train_acc=0.7950 val_MacroF1=0.6865 val_acc=0.7361 val_loss=0.9634 lr=1.71e-04 (719s)
+  -> 保存 best (Macro-F1=0.6865)
+[B ep5/10] train_loss=1.2522 train_acc=0.8660 val_MacroF1=0.7145 val_acc=0.7587 val_loss=0.9016 lr=1.39e-04 (710s)
+  -> 保存 best (Macro-F1=0.7145)
+[B ep6/10] train_loss=1.1321 train_acc=0.9059 val_MacroF1=0.7272 val_acc=0.7702 val_loss=0.8816 lr=1.01e-04 (708s)
+  -> 保存 best (Macro-F1=0.7272)
+[B ep7/10] train_loss=1.0587 train_acc=0.9321 val_MacroF1=0.7409 val_acc=0.7793 val_loss=0.8539 lr=6.31e-05 (704s)
+  -> 保存 best (Macro-F1=0.7409)
+[B ep8/10] train_loss=1.0086 train_acc=0.9512 val_MacroF1=0.7480 val_acc=0.7846 val_loss=0.8632 lr=3.10e-05 (677s)
+  -> 保存 best (Macro-F1=0.7480)
+[B ep9/10] train_loss=0.9818 train_acc=0.9573 val_MacroF1=0.7504 val_acc=0.7887 val_loss=0.8537 lr=9.54e-06 (682s)
+  -> 保存 best (Macro-F1=0.7504)
+[B ep10/10] train_loss=0.9620 train_acc=0.9679 val_MacroF1=0.7551 val_acc=0.7941 val_loss=0.8432 lr=2.00e-06 (681s)
+  -> 保存 best (Macro-F1=0.7551)
+=== 完成 exp12_indep224: best val Macro-F1 = 0.7551，总耗时 126.2 min ===
+评估：Macro-F1=0.7551 Acc=0.7941 unknown检出=0.9183 误拒=0.0278
+TTA 评估：Macro-F1=0.7615 Acc=0.7986 (178s)

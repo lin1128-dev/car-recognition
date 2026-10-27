@@ -1,0 +1,6 @@
+{
+  "checkpoint": "runs\\exp11_ft85b\\best.pth",
+  "tta_val_macro_f1_51": 0.8462,
+  "tta_val_accuracy": 0.8705,
+  "tta_seconds": 291.2
+}

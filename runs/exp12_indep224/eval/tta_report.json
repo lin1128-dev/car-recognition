@@ -1,0 +1,6 @@
+{
+  "checkpoint": "runs\\exp12_indep224\\best.pth",
+  "tta_val_macro_f1_51": 0.7615,
+  "tta_val_accuracy": 0.7986,
+  "tta_seconds": 177.6
+}
